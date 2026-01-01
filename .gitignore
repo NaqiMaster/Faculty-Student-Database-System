@@ -1,0 +1,8 @@
+
+Contents:
+```gitignore
+*.class
+/out/
+/.idea/
+.vscode/
+.DS_Store
